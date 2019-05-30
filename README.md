@@ -1,2 +1,7 @@
 # python
 百度点石大赛的预测算法
+CNN是对于图像部分的预测
+DataPredict2是对于数据部分的预测
+picturepre是图像预处理部分
+DataPre是数据预处理部分
+combine是结合2种预测结果
